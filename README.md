@@ -1,2 +1,4 @@
 # vegy-shell
-My first GNOME shell theme.
+
+The vegy shell is a GNOME shell theme made by me.
+
